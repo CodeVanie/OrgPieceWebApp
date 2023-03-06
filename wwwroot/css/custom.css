@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+
+#logo-text {
+    font-family: "Jua", sans-serif;
+    font-size: 2rem;
+    color: #098BE7;
+}
+
+#logo-green {
+    font-family: "Jua", sans-serif;
+    font-size: 2rem;
+}
+
+#logo-home {
+    font-family: "Jua", sans-serif;
+    font-size: 1rem;
+}
+
+#logo-yellow {
+    font-family: "Jua", sans-serif;
+    font-size: 1rem;
+    color: #FBE00F;
+}
+
+#logo-blue {
+    font-family: "Jua", sans-serif;
+    font-size: 1rem;
+    color: #2B86FA;
+}
+
+#logo-red {
+    font-family: "Jua", sans-serif;
+    font-size: 1rem;
+    color: #F90C10;
+}
+
+input[id="registerLocation"]::placeholder {
+    font-family: Roboto, 'Font Awesome\ 5 Pro', sans-serif;
+    font-weight: 600;
+}  
+
+
+#datalistOptions {
+    border: 1px #ccc;
+    padding: 3px;
+    list-style-type: none;
+}
+
+#datalistOptions ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#datalistOptions ul li {
+    padding: 5px 0;
+    list-style-type: none;
+}
+
+#datalistOptions ul li:hover {
+    background: #ffffff;
+    list-style-type: none;
+}
